@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidFacebookApp</string>
+    <string name="facebook_app_id">659020575206799</string>
+    <string name="fb_login_protocol_scheme">fb659020575206799</string>
+    <string name="facebook_client_token">33dff081d3ec68531cb29b0be358b0d3</string>
+</resources>
